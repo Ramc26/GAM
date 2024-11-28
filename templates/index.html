@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎬 GAM: Guess-A-Movie 🎬</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Oi&family=Rubik+Microbe&family=Zilla+Slab:wght@500&family=Lobster&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container py-5 text-center">
+        <!-- Header Section -->
+        <header>
+            <h1 class="display-4 oi-regular" id="project-title">🎥 GAM: Guess-A-Movie 🎥</h1>
+            <p class="lead text-warning">Decode scrambled movie names, climb the leaderboard, and show off your movie genius! 🌟</p>
+        </header>
+
+        <!-- Description Section -->
+        <div class="mt-4">
+            <h2 class="lobster-font" style="color: ivory;">💡 How to Play:</h2>
+            <ul class="list-group-flush mb-4 description-list zilla-slab" style="background-color: #282a36;">
+                <li class="list-group-item">⭐ Start with <b>10 points</b> per question.</li>
+                <li class="list-group-item">💡 Each hint costs <b>2 points</b> (use wisely!).</li>
+                <li class="list-group-item">🥇 Aim for the leaderboard and show off your movie knowledge!</li>
+            </ul>
+            <p class="fw-bold text-warning">TIP: Googling the movie spelling can help you score big! 😜</p>
+        </div>
+
+        <!-- Timer and Score -->
+        <div class="d-flex justify-content-between align-items-center my-3">
+            <div id="timer" class="badge bg-secondary fs-5 mb-3">Time: 00:00:00</div>
+            <div id="total-score" class="badge bg-primary fs-5 mb-3">💯 Total Score: 0</div>
+        </div>
+
+        <!-- Username Input -->
+        <div id="user-input" class="mt-3">
+            <label for="twitter-username" class="form-label">Twitter Username:</label>
+            <input type="text" id="twitter-username" class="form-control mx-auto mb-3" placeholder="@YourTwitterHandle">
+            <button id="start-btn" class="btn btn-success btn-lg">Start Quiz 🚀</button>
+        </div>
+
+        <!-- Quiz Area -->
+        <div id="quiz-area" class="mt-4 d-none">
+            <p id="questions-remaining" class="text-info fw-bold">Questions Remaining: 10</p>
+            <div id="question-container" class="rubik-microbe-regular rounded shadow">
+                <p id="scrambled-hint">Press "Start" to begin the quiz!</p>
+            </div>
+            <input type="text" id="user-answer" class="form-control mx-auto mb-3" placeholder="Your guess">
+            <div id="hints-container" class="d-flex justify-content-center flex-wrap mt-3">
+                <span id="hint1" class="badge hint-badge">Hints are on their way!!</span>
+            </div>
+            <div class="mt-3">
+                <button id="hint-btn" class="btn btn-warning me-2">Show Hint 💡</button>
+                <button id="submit-btn" class="btn btn-primary">Submit ✔️</button>
+            </div>
+        </div>
+
+        <!-- Result Message -->
+        <div id="result-message" class="mt-3 text-success fw-bold"></div>
+
+        <!-- Leaderboard -->
+        <div id="leaderboard" class="mt-4 d-none">
+            <h2 class="fw-bold">🏆 Leaderboard 🏆</h2>
+            <ul id="leaderboard-list" class="list-group"></ul>
+        </div>
+
+        <footer class="mt-4">
+            <p class="text-white">🎬 Lights, Camera, Action! Quiz your way to the top! 🍿</p>
+            <p class="text-white">Built with ❤️ by a fellow movie buff <a href="https://twitter.com/itsmeramc" target="_blank" class="text-warning">@itsmeramc</a> !!</p>
+        </footer>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>

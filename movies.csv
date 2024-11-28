@@ -1,0 +1,196 @@
+id,original_title,scrambled_hint,category,director_name,genre,lead_actor
+1,JENDAPAI KAPIRAAJU,GENT PIE CAP RANGE YOU,Tollywood,Samuthirakani,Drama,Nani
+2,BAAHUBALI,BOB ALI,Tollywood,S.S. Rajamouli,Action,Prabhas
+3,DANGAL,DAN GIRL,Bollywood,Nitesh Tiwari,Drama,Aamir Khan
+4,KGF,KAY GEE YUFF,Tollywood,Prashanth Neel,Action,Yash
+5,TITANIC,TIGHT A TONIC,Hollywood,James Cameron,Romance,Leonardo DiCaprio
+6,SHOLAY,SHOW LAY,Bollywood,Ramesh Sippy,Action,Amitabh Bachchan
+7,AVATAR,A WEIGHT ARE,Hollywood,James Cameron,Sci-Fi,Sam Worthington
+8,DRISHYAM,DRESS JAM,Mollywood,Jeethu Joseph,Thriller,Mohanlal
+9,RRR,ARE ARE ARE,Tollywood,S.S. Rajamouli,Action,Ram Charan
+10,INCEPTION,IN SAFE TONE,Hollywood,Christopher Nolan,Sci-Fi,Leonardo DiCaprio
+11,PUSHPA,PAUSE PA,Tollywood,Sukumar,Action,Allu Arjun
+12,PK,PEE KAY,Bollywood,Rajkumar Hirani,Comedy,Aamir Khan
+13,MAGADHEERA,MAG A DEAR,Tollywood,S.S. Rajamouli,Fantasy,Ram Charan
+14,SURYAVANSHI,SURE YA VAN SHE,Bollywood,Rohit Shetty,Action,Akshay Kumar
+15,ARJUN REDDY,ARE JUN RED D,Tollywood,Sandeep Vanga,Romance,Vijay Deverakonda
+16,3 IDIOTS,THREE EYE DOTS,Bollywood,Rajkumar Hirani,Comedy,Aamir Khan
+17,MAHARSHI,MY HERSHEY,Tollywood,Vamshi Paidipally,Drama,Mahesh Babu
+18,DILWALE DULHANIA LE JAYENGE,DOLL WELL DULL HONEY JAY HANG,Bollywood,Aditya Chopra,Romance,Shah Rukh Khan
+19,ATHARINTIKI DAREDI,AT HER IN TICKY DARE DIE,Tollywood,Trivikram Srinivas,Drama,Pawan Kalyan
+20,BHAAG MILKHA BHAAG,BAG MILKY BAG,Bollywood,Rakeysh Omprakash Mehra,Biography,Farhan Akhtar
+21,GABBAR SINGH,GAB BARS IN,Tollywood,Harish Shankar,Action,Pawan Kalyan
+22,KABIR SINGH,COBBER SING,Bollywood,Sandeep Vanga,Romance,Shahid Kapoor
+23,RANGASTHALAM,PLACE WHERE YOU ACT,Tollywood,Sukumar,Drama,Ram Charan
+24,DON,DOWN,Bollywood,Farhan Akhtar,Action,Shah Rukh Khan
+25,ROBOT,ROW BOUGHT,Tollywood,Shankar,Sci-Fi,Rajinikanth
+26,BADRINATH,BAD DREAM AT,Tollywood,V.V. Vinayak,Action,Allu Arjun
+27,SHAHENSHAH,SHOW HENS SHAH,Bollywood,Tinnu Anand,Action,Amitabh Bachchan
+28,SARILERU NEEKEVVARU,SORRY LEARN NICK WARE,Tollywood,Anil Ravipudi,Action,Mahesh Babu
+29,ZINDAGI NA MILEGI DOBARA,SEND DOGGY NO MILD DOG BAR,Bollywood,Zoya Akhtar,Drama,Hrithik Roshan
+30,ATHADU,AT HER DO,Tollywood,Trivikram Srinivas,Action,Mahesh Babu
+31,BHARAT ANE NENU,BRIGHT AND NEW,Tollywood,Koratala Siva,Drama,Mahesh Babu
+32,KABHI KHUSHI KABHIE GHAM,COBBY COUCHY GUMMY GAME,Bollywood,Karan Johar,Drama,Shah Rukh Khan
+33,RAAZ,RAZE,Bollywood,Vikram Bhatt,Thriller,Bipasha Basu
+34,YE MAAYA CHESAVE,YOU MAY CHASE WAY,Tollywood,Gautham Menon,Romance,Naga Chaitanya
+35,BAJRANGI BHAIJAAN,BUD JUNGLE BUY JOHN,Bollywood,Kabir Khan,Drama,Salman Khan
+36,AGENT SAI SRINIVASA ATHREYA,AGAIN SAY SIR INVISIBLE TREE,Tollywood,Swaroop RSJ,Comedy,Navin Polishetty
+37,CHANDNI CHOWK TO CHINA,CHANTING CHALK TO CHAIR,Bollywood,Nikhil Advani,Comedy,Akshay Kumar
+38,AA NALUGURU,ALL ARE NEW GURU,Tollywood,Chandra Siddhartha,Drama,Rajendra Prasad
+39,BANG BANG!,BAN BANK,Bollywood,Siddharth Anand,Action,Hrithik Roshan
+40,FIDA,FEED AHH,Tollywood,Shekar Kammula,Romance,Varun Tej
+41,EK VILLAIN,EQUAL VILLAGE,Bollywood,Mohit Suri,Thriller,Sidharth Malhotra
+42,MUNNA BHAI M.B.B.S,MANY BUY ME BEES,Bollywood,Rajkumar Hirani,Comedy,Sanjay Dutt
+43,HAPPY DAYS,HEY PAY DICE,Tollywood,Shekar Kammula,Drama,Varun Sandesh
+44,DHOOM,DOOM,Bollywood,Sanjay Gadhvi,Action,John Abraham
+45,GOLI SODA,GOLD SOLD HERE,Tamil,Vijay Milton,Drama,Samuthirakani
+46,GOODACHARI,GOOD CHAIR TEE,Tollywood,Sashi Kiran Tikka,Thriller,Adivi Sesh
+47,HUM AAPKE HAIN KOUN,HONEY CAPTAIN COUNT,Bollywood,Sooraj Barjatya,Romance,Salman Khan
+48,MAGALIR MATTUM,MAKE GIRLS MAD,Tamil,Bramma,Drama,Jyothika
+49,KICK,KITCH,Bollywood,Sajid Nadiadwala,Action,Salman Khan
+50,NAAYAK,NIGHT YAK,Tollywood,V. V. Vinayak,Action,Ram Charan
+51,KRISHH,KISS SH,Tollywood,Rakesh Roshan,Sci-Fi,Hrithik Roshan
+52,THANI ORUVAN,TINY HERO ONE,Tamil,Mohan Raja,Thriller,Jayam Ravi
+53,THUPPAKI,TOP PEE KEY,Tollywood,A.R. Murugadoss,Action,Vijay
+54,VIKRAM VEDHA,VICTORY WEATH,Bollywood,Pushkar–Gayathri,Action,Hrithik Roshan
+55,KABHI ALVIDA NA KEHNA,CUBE VALVE NEW CAN,Bollywood,Karan Johar,Drama,Shah R৺
+51,BHAGAMATHIE,BAG MY TEA,Tollywood,Ashok,Thriller,Anushka Shetty
+52,EK THA TIGER,EX TIGHT TIE HER,Bollywood,Kabir Khan,Action,Salman Khan
+53,SEETHAMMA VAKITLO SIRIMALLE CHETTU,SEE THEM WACKY LITTLE CHERRY CHEST,Tollywood,Srikanth Addala,Drama,Mahesh Babu
+54,CHHICHHORE,CHICK HORROR,Bollywood,Nitesh Tiwari,Drama,Sushant Singh Rajput
+55,GAUTAMIPUTRA SATAKARNI,GOT A MY PUT TRUE START A KERNEL,Tollywood,Krish,History,Nandamuri Balakrishna
+56,STREE,STRAW,Bollywood,Amar Kaushik,Comedy Horror,Rajkummar Rao
+57,KSHANAM,CASH NUN,Tollywood,Ravikanth Perepu,Thriller,Adivi Sesh
+58,RAB NE BANA DI JODI,RABBIT NEW BAN JOY,Bollywood,Aditya Chopra,Romance,Shah Rukh Khan
+59,AGNYATHAVAASI,AGENT THE VASE,Tollywood,Trivikram Srinivas,Action,Pawan Kalyan
+60,CHENNAI EXPRESS,CHAIN EGG PRESS,Bollywood,Rohit Shetty,Comedy,Shah Rukh Khan
+61,ROWDY RATHORE,ROW THE RAT HOLE,Bollywood,Prabhu Deva,Action,Akshay Kumar
+62,MIRCHI,MIRROR CHEE,Tollywood,Koratala Siva,Action,Prabhas
+63,YEH JAWAANI HAI DEEWANI,YOU YAWN HEAVY DINE,Bollywood,Ayan Mukerji,Romance,Ranbir Kapoor
+64,OKKA KSHANAM,OKAY CUSHION NUM,Tollywood,V.I. Anand,Sci-Fi,Allu Sirish
+65,MOHENJO DARO,MO HEN DRAW,Bollywood,Ashutosh Gowariker,Adventure,Hrithik Roshan
+66,JULAYI,JULY,Tollywood,Trivikram Srinivas,Comedy,Allu Arjun
+67,PATI PATNI AUR WOH,PETTY PATTERN WORTH,Bollywood,Mudassar Aziz,Comedy,Kartik Aaryan
+68,MIRAPAKAY,ME RAP KEY,Tollywood,Harish Shankar,Action,Ravi Teja
+69,TANHAJI,THAN HIGH G,Bollywood,Om Raut,Action,Ajay Devgn
+70,SAAHO,SAY HO,Tollywood,Sujeeth,Action,Prabhas
+71,BARFI!,BERRY FEE,Bollywood,Anurag Basu,Comedy,Ranbir Kapoor
+72,YEVADU,YOU EVER DO,Tollywood,Vamsi Paidipally,Action,Ram Charan
+73,HAIDER,HIDE HER,Bollywood,Vishal Bhardwaj,Drama,Shahid Kapoor
+74,BAADSHAH,BAD SHAH,Tollywood,Sreenu Vaitla,Action,NTR Jr.
+75,BADRINATH KI DULHANIA,BAD DREAM NICK DO LEND HERE,Bollywood,Shashank Khaitan,Romance,Varun Dhawan
+76,SWADES,SWAY DRESS,Bollywood,Ashutosh Gowariker,Drama,Shah Rukh Khan
+77,SARILERU NEEKEVVARU,SORRY LATER NICK EVER,Tollywood,Anil Ravipudi,Action,Mahesh Babu
+78,TUMHARI SULU,TOMB HARRY SOL,Bollywood,Suresh Triveni,Drama,Vidya Balan
+79,MANAM,MY NUM,Tollywood,Vikram Kumar,Drama,Nagarjuna Akkineni
+80,ROCKSTAR,ROCKET STORE,Bollywood,Imtiaz Ali,Drama,Ranbir Kapoor
+81,KSHANAM,CASH NONE,Tollywood,Ravikanth Perepu,Thriller,Adivi Sesh
+82,SANJU,SEND YOU,Bollywood,Rajkumar Hirani,Biopic,Ranbir Kapoor
+83,EVARU,EVER YOU,Tollywood,Venkat Ramji,Thriller,Adivi Sesh
+84,DIL SE,DEAL SAY,Bollywood,Mani Ratnam,Romance,Shah Rukh Khan
+85,KANCHANA,CON CHAN,Tollywood,Raghava Lawrence,Horror,Raghava Lawrence
+86,CHICHHORE,CHICK HEY MORE,Bollywood,Nitesh Tiwari,Drama,Sushant Singh Rajput
+87,RAJA THE GREAT,RAGE A THE GREATEST,Tollywood,Anil Ravipudi,Action,Ravi Teja
+88,LUCK BY CHANCE,LOCK BUY CHANGE,Bollywood,Zoya Akhtar,Drama,Farhan Akhtar
+89,SUPREME,SUE PRIM,Tollywood,Anil Ravipudi,Action,Sai Dharam Tej
+90,OM SHANTI OM,HOME SHANTY HOME,Bollywood,Farah Khan,Romance,Shah Rukh Khan
+91,DARLING,DARE LINK,Tollywood,A. Karunakaran,Romance,Prabhas
+92,MUJHSE DOSTI KAROGE,MOODS SAY DOG CART GO,Bollywood,Kunal Kohli,Romance,Hrithik Roshan
+93,NINNU KORI,NEED CORE,Tollywood,Shiva Nirvana,Romance,Nani
+94,SOTY,SO TEE,Bollywood,Karan Johar,Drama,Varun Dhawan
+95,JAI LAVA KUSA,JAIL LAVA KOUSA,Tollywood,K. S. Ravindra,Action,NTR Jr.
+96,SULTAN,SOUL TAN,Bollywood,Ali Abbas Zafar,Action,Salman Khan
+97,GEETHANJALI,GET AN JULY,Tollywood,Mani Ratnam,Romance,Nagarjuna Akkineni
+98,GHAYAL,GUY YELL,Bollywood,Rajkumar Santoshi,Action,Sunny Deol
+99,IDHI SANGATHAM,I'D HEARD SONG A THEM,Tollywood,Chiranjeevi,K,Comedy
+100,THE MATRIX,THAT MAD RICKS,Hollywood,Lana Wachowski,Sci-Fi,Keanu Reeves
+101,BAHUBALI: THE BEGINNING,BOB BALLET THE BIG BELL,Tollywood,S.S. Rajamouli,Action,Prabhas
+102,GLADIATOR,GLAD EATER,Hollywood,Ridley Scott,Action,Russell Crowe
+103,BILLA,BILL A,Tollywood,Meher Ramesh,Action,Prabhas
+104,THE AVENGERS,THE VANE GERS,Hollywood,Joss Whedon,Action,Robert Downey Jr.
+105,FROZEN,FOR ZEN,Hollywood,Chris Buck,Animation,Kristen Bell
+106,EENADU,END DUE,Tollywood,Chakri Toleti,Thriller,Kamal Haasan
+107,PULI,POOL E,Tollywood,S.J. Surya,Action,Pawan Kalyan
+108,BLACK PANTHER,BLOCK PANTER,Hollywood,Ryan Coogler,Action,Chadwick Boseman
+109,SPYDER,SUP PIDER,Tollywood,A.R. Murugadoss,Thriller,Mahesh Babu
+110,TROY,TRY OH,Hollywood,Wolfgang Petersen,Action,Brad Pitt
+111,MAD MAX,FAD TAX,Hollywood,George Miller,Action,Mel Gibson
+112,GHAZI,GAS E,Tollywood,Sankalp Reddy,War,Rana Daggubati
+113,JURASSIC PARK,JURY ASK PERK,Hollywood,Steven Spielberg,Adventure,Sam Neill
+114,GOVINDUDU ANDARIVADELE,GO WIND DO UNDER RIVAL DEL,Tollywood,Krishna Vamsi,Drama,Ram Charan
+115,THE TERMINATOR,THE TERM INK TOW,Holywood,James Cameron,Sci-Fi,Arnold Schwarzenegger
+116,SAAHO,SAY HOW,Tollywood,Sujeeth,Action,Prabhas
+117,AVENGERS: ENDGAME,ADVANCE END GAME,Hollywood,Anthony Russo,Action,Robert Downey Jr.
+118,BRUCE LEE: THE FIGHTER,BREW SEE LAY THE RIGHT,Tollywood,Sreenu Vaitla,Action,Ram Charan
+119,THE REVENANT,THREE VEIN ANT,Hollywood,Alejandro G. Iñárritu,Drama,Leonardo DiCaprio
+120,BHARATH,BRO HAT,Tollywood,Koratala Siva,Drama,Mahesh Babu
+121,SPARTACUS,PART A COURSE,Hollywood,Stanley Kubrick,History,Kirk Douglas
+122,F2: FUN AND FRUSTRATION,FOR TWO FANS AND FAITH,Tollywood,Anil Ravipudi,Comedy,Venkatesh
+123,INDEPENDENCE DAY,INDIE PENDANTS DIE,Hollywood,Roland Emmerich,Sci-Fi,Will Smith
+124,KHADGAM,COD GUM,Tollywood,Krishna Vamsi,Drama,Ravi Teja
+125,THE NOTEBOOK,THIN OATH BOOK,Hollywood,Nick Cassavetes,Romance,Ryan Gosling
+126,LEADER,LAD EAR,Tollywood,Shekar Kammula,Drama,Rana Daggubati
+127,THE DARK KNIGHT,THAT ARC KNIGHT,Hollywood,Christopher Nolan,Action,Christian Bale
+128,ATHIDI,AT THE DIE,Tollywood,Surender Reddy,Action,Mahesh Babu
+129,INCEPTION,INSPECT TONE,Hollywood,Christopher Nolan,Sci-Fi,Leonardo DiCaprio
+130,SRIMANTHUDU,SEE MIND TO DO,Tollywood,Koratala Siva,Drama,Mahesh Babu
+131,TITANIC,TIGHT A NICHE,Hollywood,James Cameron,Romance,Leonardo DiCaprio
+132,GAUTHAM NANDA,GOAT AMANDA,Tollywood,Sampath Nandi,Action,Gopichand
+133,PULP FICTION,PULLED FIX ON,Hollywood,Quentin Tarantino,Crime,John Travolta
+134,KHAIDI NO 150,GUIDE NO FIFTH,Tollywood,V.V. Vinayak,Action,Chiranjeevi
+135,ALIEN,ALL LEAN,Hollywood,Ridley Scott,Sci-Fi,Sigourney Weaver
+136,SARDAR GABBAR SINGH,SIR DARING BAR SING,Tollywood,K.S. Ravindra,Action,Pawan Kalyan
+137,ROBOCOP,ROB BOCK,Hollywood,Paul Verhoeven,Sci-Fi,Peter Weller
+138,JALSA,JAIL SIR,Tollywood,Trivikram Srinivas,Comedy,Pawan Kalyan
+139,THE GODFATHER,THE GOOD FEATHER,Hollywood,Francis Ford Coppola,Crime,Marlon Brando
+140,BHIMAA,BHEEM AHH,Tollywood,A.Harsha,Action,Gopichand
+151,AVENGERS: INFINITY WAR,ADVENTURES IN A FEAR,Hollywood,Anthony Russo,Action,Robert Downey Jr.
+152,SRIMANTHUDU,SIR MINT TOO DO,Tollywood,Koratala Siva,Drama,Mahesh Babu
+153,STAR WARS: THE FORCE AWAKENS,STAIR WHERE FOREST WAKING,Hollywood,J.J. Abrams,Sci-Fi,Harrison Ford
+154,GABBAR SINGH,GRAB BEER RING,Tollywood,Harish Shankar,Action,Pawan Kalyan
+155,SPIDERMAN,SPIED EAR MAN,Hollywood,Sam Raimi,Action,Tobey Maguire
+156,ATHARINTIKI DAREDI,AT HER RENT TIKI DAIRY,Tollywood,Trivikram Srinivas,Comedy,Pawan Kalyan
+157,THE DARK KNIGHT RISES,THAT ARCH NIGHT RACES,Hollywood,Christopher Nolan,Action,Christian Bale
+158,TEMPER,TEMPLE HERE,Tollywood,Puri Jagannadh,Action,NTR Jr.
+159,DOCTOR STRANGE,DOCK DOOR STRANGE,Hollywood,Scott Derrickson,Sci-Fi,Benedict Cumberbatch
+160,ARJUN REDDY,ARGUE RED D,Tollywood,Sandeep Reddy Vanga,Drama,Vijay Deverakonda
+161,FAST AND FURIOUS,FACT AND FUR RICE,Hollywood,Justin Lin,Action,Paul Walker
+162,BHARAT ANE NENU,BROTH AN END NEW,Tollywood,Koratala Siva,Drama,Mahesh Babu
+163,FORREST GUMP,FOREST BUMP,Hollywood,Robert Zemeckis,Drama,Tom Hanks
+164,DHARMADURAI,DRAMA TO RIGHT,Tollywood,Seenu Ramasamy,Drama,Vijay Sethupathi
+165,THE LORD OF THE RINGS,THIRD OR OF WINGS,Hollywood,Peter Jackson,Fantasy,Elijah Wood
+166,THANI ORUVAN,TINY ROW ONE,Tamil,Mohan Raja,Thriller,Jayam Ravi
+167,THE WOLF OF WALL STREET,THREE WAVE ALL TREAT,Hollywood,Martin Scorsese,Drama,Leonardo DiCaprio
+168,OKKA KSHANAM,OKE CUSHION UM,Tollywood,VI Anand,Sci-Fi,Allu Sirish
+169,TROY,TRY ALL,Hollywood,Wolfgang Petersen,Action,Brad Pitt
+170,JULAYI,JULY AYE,Tollywood,Trivikram Srinivas,Action,Allu Arjun
+171,INCEPTION,IN SET PIN,Hollywood,Christopher Nolan,Sci-Fi,Leonardo DiCaprio
+172,LUCA,LUCKY,Hollywood,Enrico Casarosa,Animation,Jacob Tremblay
+173,EVARU,EVER TRUE,Tollywood,Venkat Ramji,Thriller,Adivi Sesh
+174,300,THREE OH OH,Hollywood,Zack Snyder,Action,Gerard Butler
+175,YE MAAYA CHESAVE,YE MAY CHEESE SAVE,Tollywood,Gautham Menon,Romance,Naga Chaitanya
+176,THE JUNGLE BOOK,THERE JUNGLE BROOK,Hollywood,Jon Favreau,Adventure,Neel Sethi
+177,FIDA,FEED A,Tollywood,Shekar Kammula,Romance,Varun Tej
+178,TITANIC,TIGHT NICHE,Hollywood,James Cameron,Romance,Leonardo DiCaprio
+179,MAGADHEERA,MEGA THERE A,Tollywood,S.S. Rajamouli,Action,Ram Charan
+180,THE MARTIAN,THAT MARCH IN,Hollywood,Ridley Scott,Sci-Fi,Matt Damon
+181,GOVINDUDU ANDARIVADELE,GO WIND WHO UNDER RIVAL DEAL,Tollywood,Krishna Vamsi,Drama,Ram Charan
+182,THE SHAWSHANK REDEMPTION,THOSE SHOCKING RED DAMN,Tollywood,Frank Darabont,Drama,Tim Robbins
+183,ROBO,ROW BO,Tollywood,Shankar,Sci-Fi,Rajinikanth
+184,FIGHT CLUB,FRIGHT CLOUD,Hollywood,David Fincher,Drama,Brad Pitt
+185,GANG LEADER,GANG LATER,Tollywood,Vikram Kumar,Action,Nani
+186,JURASSIC PARK,JURY ASK PERK,Hollywood,Steven Spielberg,Adventure,Sam Neill
+187,BAAGHI,BAG HE,Bollywood,Sabbir Khan,Action,Tiger Shroff
+188,DHEE,DID HE,Tollywood,Srinu Vaitla,Comedy,Manchu Vishnu
+189,THE MATRIX,THAT MAD RICKS,Hollywood,Lana Wachowski,Sci-Fi,Keanu Reeves
+190,AA NALUGURU,ALWAYS GURU,Tollywood,Chandra Siddhartha,Drama,Rajendra Prasad
+191,GLADIATOR,GLAD EATER,Hollywood,Ridley Scott,Action,Russell Crowe
+192,THUPPAKKI,TO PAK TEE,Tollywood,A.R. Murugadoss,Action,Vijay
+193,BACK TO THE FUTURE,BECK TWO FUTURE,Hollywood,Robert Zemeckis,Sci-Fi,Michael J. Fox
+194,BUSINESSMAN,BEES NICE MEN,Tollywood,Puri Jagannadh,Action,Mahesh Babu
+195,INDEPENDENCE DAY,IN DEEP DANCE DAY,Hollywood,Roland Emmerich,Action,Will Smith
+196,KICK,KID BACK,Bollywood,Sajid Nadiadwala,Action,Salman Khan
+197,SULTHAN,SALT THEN,Tollywood,Bakkiyaraj Kannan,Action,Karthi
+198,THE GODFATHER,THY GOOD FEATHER,Hollywood,Francis Ford Coppola,Crime,Marlon Brando
+199,PULI,POOL E,Tollywood,Chimbu Deven,Action,Vijay
+200,THE LION KING,THAT LYING KING,Hollywood,Jon Favreau,Animation,Donald Glover
