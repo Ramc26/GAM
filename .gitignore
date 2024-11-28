@@ -16,3 +16,9 @@ venv/
 
 # Ignore logs
 *.log
+
+
+venv/
+__pycache__/
+flask_session/
+error.log
