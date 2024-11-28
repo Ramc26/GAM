@@ -237,7 +237,7 @@ def get_leaderboard():
     return jsonify(leaderboard)
 
 
-# # if __name__ == '__main__':
-#     # Production settings
-#     from waitress import serve
-#     serve(app, host='0.0.0.0', port=PORT)
+if __name__ == '__main__':
+    # Production settings
+    from waitress import serve
+    serve(app, host='0.0.0.0', port=PORT)
